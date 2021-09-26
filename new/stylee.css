@@ -1,0 +1,52 @@
+
+body {
+	background-color: cream;
+	font-family : Verdana, Arial, sans-serif;
+	margin: 0px;
+	
+}
+p {
+	color : black;
+	font-family : monospace,Arial;
+	font-weight : 900; 
+	font-size : 30px;
+	margin:5px;
+}
+h1 {
+	color : green;
+	font-family : monospace;
+	font-size : 300%;
+}
+.cent h1 {
+	
+	color: purple;
+	
+}
+figure {
+	text-align: center;
+	margin:1px;
+	
+}
+.pad {
+	padding = 10px;
+}
+.cent {
+	padding:50px;
+	color : #ee3e80;
+	margin : 150px; 
+	text-align : center;
+}
+.cent p {
+	color : #ee3e80;
+	font-size : 20px;
+	font-family : Monotype Corsiva,Verdana, Arial, sans-serif;
+}
+a {
+	color : rgb(123,24, 22);
+}
+form {
+	color : red;
+	text-align : center;
+	padding: 0px;
+}
+
